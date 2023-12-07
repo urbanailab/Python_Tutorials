@@ -1,0 +1,17 @@
+1. CollectCensus: The script collects the ACS data to prepare for the meta-learning practice in the future.
+
+2. DescriptiveDataAnalysis: This script conducts descriptive data analysis on a dataset by loading, viewing, and visualizing the data.
+
+3. EmulateMajorFindings and EmulateMajorFindingsSolutions: Emulate the major findings in “Gasoline consumption and cities: a comparison of US cities with a global survey”.
+
+4. MultivariateRegressions: This script covers data loading with preprocessing, summarizing data, univariate regression, and multivariate regression.
+
+5. PythonBasics: Basic knowledge and code samples.
+
+6. SpatialVisualization: This script introduces spatial visualization using the GeoPandas module in Python.
+
+7. Visualization&UnivariateLinearRegressions: This script covers visualization and univariate linear regressions using Python.
+
+
+
+

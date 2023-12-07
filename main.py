@@ -1,5 +1,3 @@
-# main.py
-
 from nbconvert import PythonExporter
 import os
 

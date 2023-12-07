@@ -1,29 +1,8 @@
-1. DiverseClassifiers： Conduct supervised learning on diverse classifiers, including logistic regression as a baseline and various machine learning classifiers.
+1. GoogleMapAPI: Demonstrate how to retrieve street view and satellite images using the Google Maps API in Python.
 
-2. GoogleMapAPI: Demonstrate how to retrieve street view and satellite images using the Google Maps API in Python.
+2. ImagePredictScript: Use satellite and street view images and ResNet-18 to predict mobility variables.
 
-3. ImagePredictScript: Use satellite and street view images and ResNet-18 to predict mobility variables.
+3. main: Utilize nbconvert to convert a Jupyter Notebook into Python code and then executes the generated Python code in the current namespace. The purpose is to run Jupyter Notebook code as a part of a Python script.
 
-4. LogisticRegression: Logistic Regression with Multiple Variables.
+4. CustomDataset: Define a custom PyTorch dataset (CustomDataset) for image classification.
 
-5. LogisticRegressionRevisited： Revisit logistic regression in two paradigms:
-* Benchmark logistic regression (Stat Paradigm)
-* Logistic regression in Machine Learning (ML Paradigm)
-
-6. main: Utilize nbconvert to convert a Jupyter Notebook into Python code and then executes the generated Python code in the current namespace. The purpose is to run Jupyter Notebook code as a part of a Python script.
-
-7. MultivariateRegressions: Run and analyze multiple linear regression models using the statsmodels library.
-
-8. NetworkAnalysis&GIS: Introduce the use of Python modules such as geopandas and networkx for network analysis and GIS tasks.
-
-9. Practice: practice coding by using all the past scripts and make fairness evaluation.
-
-10. Regularization: Introduce the concepts of overfitting and regularization in the context of linear regression using Python modules such as statsmodels and sklearn.
-
-11. SpatialAutocorrelation&Regression: Focuse on spatial autocorrelation and regression, using modules such as pysal, geopandas, and statsmodels.\
-
-12. Visualization&UnivariateRegressions: Provide a comprehensive introduction to visualization and univariate linear regressions using Matplotlib and statsmodels.api.
-
-13. CustomDataset: Define a custom PyTorch dataset (CustomDataset) for image classification.
-
-14. PythonRefresherScript: Basic operation in python.

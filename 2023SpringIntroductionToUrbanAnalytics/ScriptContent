@@ -1,0 +1,21 @@
+1. DiverseClassifiers： Conduct supervised learning on diverse classifiers, including logistic regression as a baseline and various machine learning classifiers.
+
+2. LogisticRegression: Logistic Regression with Multiple Variables.
+
+3. LogisticRegressionRevisited： Revisit logistic regression in two paradigms:
+* Benchmark logistic regression (Stat Paradigm)
+* Logistic regression in Machine Learning (ML Paradigm)
+
+4. MultivariateRegressions: Run and analyze multiple linear regression models using the statsmodels library.
+
+5. NetworkAnalysis&GIS: Introduce the use of Python modules such as geopandas and networkx for network analysis and GIS tasks.
+
+6. Practice: practice coding by using all the past scripts and make fairness evaluation.
+
+7. Regularization: Introduce the concepts of overfitting and regularization in the context of linear regression using Python modules such as statsmodels and sklearn.
+
+8. SpatialAutocorrelation&Regression: Focuse on spatial autocorrelation and regression, using modules such as pysal, geopandas, and statsmodels.\
+
+9. Visualization&UnivariateRegressions: Provide a comprehensive introduction to visualization and univariate linear regressions using Matplotlib and statsmodels.api.
+
+10. PythonRefresherScript: Basic operation in python.
