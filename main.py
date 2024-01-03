@@ -12,6 +12,6 @@ def run_notebook(notebook_path):
 
 if __name__ == "__main__":
     # Run different notebooks by passing the paths
-    notebook1_path = "GoogleMapAPI.ipynb"
+    notebook1_path = "YourPath"
     run_notebook(notebook1_path)
 

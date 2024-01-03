@@ -1,0 +1,1 @@
+1. main: Utilize nbconvert to convert a Jupyter Notebook into Python code and then executes the generated Python code in the current namespace. The purpose is to run Jupyter Notebook code as a part of a Python script.

@@ -1,8 +1,0 @@
-1. GoogleMapAPI: Demonstrate how to retrieve street view and satellite images using the Google Maps API in Python.
-
-2. ImagePredictScript: Use satellite and street view images and ResNet-18 to predict mobility variables.
-
-3. main: Utilize nbconvert to convert a Jupyter Notebook into Python code and then executes the generated Python code in the current namespace. The purpose is to run Jupyter Notebook code as a part of a Python script.
-
-4. CustomDataset: Define a custom PyTorch dataset (CustomDataset) for image classification.
-
